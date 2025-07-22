@@ -49,6 +49,8 @@ This uses the comparition operators which help to identify negative and positive
 Student grade Determination:
 This uses the mix of Comparision and Logical Operators to alot grades according to the average marks in the 5 subjects.
 
+
+
 Quadrant Determination:
 This also uses the mix of Comparision and Logical Operators to determine the quadrant according to the coordinates , which are entered by the user.
 
